@@ -11,8 +11,8 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-# make sure to intsall package on your system some package might be missing so install using npm i.
-# I have used material table to design the assignmnet 
-# Use hooks and ES6 in this  assignmnet.
+### make sure to intsall package on your system some package might be missing so install using npm i.
+### I have used material table to design the assignmnet 
+### Use hooks and ES6 in this  assignmnet.
 
 
